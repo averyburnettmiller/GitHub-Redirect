@@ -1,4 +1,4 @@
-# GitHub-Redirect
+# GitHub-Redirect Setup 
 This repository lets you redirect a domain to another domain via GitHub.
 (This comes in handy when your domain registrar doesn't support redirecting subdomains; in my case, Squarespace doesn't support this.)
 
